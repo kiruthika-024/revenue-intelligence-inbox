@@ -1,0 +1,51 @@
+{
+  "manifestVersion": "1.2.0",
+  "generatedAt": "2026-10-22T21:00:00.000Z",
+  "product": "RevPulse Revenue Intelligence Inbox",
+  "totalCalls": 8,
+  "currency": "INR (₹)",
+  "totalPipelineValueINR": 1410000,
+  "files": [
+    {
+      "filename": "cleaned_calls_dataset.csv",
+      "format": "CSV",
+      "records": 8,
+      "description": "Clean spreadsheet of all 8 sales calls with rep names, deal sizes in ₹ INR, deal stages, talk times, and competitors."
+    },
+    {
+      "filename": "calls_dataset.json",
+      "format": "JSON",
+      "records": 8,
+      "description": "Full structured dataset containing diarized speaker transcripts, customer objections, action items, and audit change logs."
+    },
+    {
+      "filename": "findings_and_decisions.json",
+      "format": "JSON",
+      "records": 5,
+      "description": "The 5 presentation slides, including 3 critical findings with transcript evidence, the difficult rep assignment solution, and the rejected architecture."
+    },
+    {
+      "filename": "sales_intel_summary.md",
+      "format": "Markdown",
+      "records": 1,
+      "description": "Plain language executive summary of high-risk deals, competitor threats, and rep assignment history."
+    }
+  ],
+  "summaryMetrics": {
+    "totalPipelineINR": 1410000,
+    "dealsAtRiskCount": 2,
+    "pipelineAtRiskINR": 620000,
+    "averageRepTalkRatio": "51%",
+    "callsNeedingAttention": 3,
+    "topCompetitors": [
+      "Clari",
+      "Gong",
+      "Salesforce Revenue Cloud",
+      "Palo Alto Networks",
+      "SailPoint",
+      "Zoom Revenue Accelerator",
+      "Apollo.io",
+      "Outreach"
+    ]
+  }
+}

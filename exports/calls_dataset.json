@@ -1,0 +1,348 @@
+[
+  {
+    "id": "conv-8821",
+    "meetingUid": "ZOOM-8821-20261018",
+    "title": "Acme Cloud Q4 Security & London Expansion Sync",
+    "accountName": "Acme Global Holdings",
+    "subsidiary": "Acme Cloud Europe Ltd (UK-EMEA)",
+    "contactName": "Dr. Elena Weber",
+    "contactTitle": "VP of Technical Operations, EMEA",
+    "contactEmail": "elena.weber@acmecloud.co.uk",
+    "assignedRep": "David Vance (60%) & Sarah Lin (40%)",
+    "dealSizeINR": 240000,
+    "dealStage": "Proposal / Negotiation",
+    "date": "2026-10-18",
+    "time": "14:00 GMT",
+    "durationMinutes": 42,
+    "platform": "Zoom",
+    "riskLevel": "critical",
+    "riskReason": "Gong offering 22% bundle discount. Contested territory assignment between EMEA and US reps.",
+    "needsAttention": true,
+    "repTalkPercent": 59,
+    "prospectTalkPercent": 41,
+    "competitors": ["Clari", "Gong", "Salesforce Revenue Cloud"],
+    "keyObjections": ["EMEA Data Residency", "Competitor Bundle Discount (-22%)", "Multi-tenant latency"],
+    "summary": "Elena Weber discussed the ₹240,000 London expansion for 350 seats. Gong offered an aggressive 22% discount. Elena asked for European data storage and updated pricing by Friday. Manager split deal credit 60% to David and 40% to Sarah.",
+    "transcript": [
+      {
+        "speaker": "Sarah Lin",
+        "role": "Sales Rep",
+        "timestamp": "00:15",
+        "text": "Elena, great to reconnect. Today I want to walk through the commercial proposal for the EMEA rollout under Acme Global's master service agreement."
+      },
+      {
+        "speaker": "Dr. Elena Weber",
+        "role": "Customer Executive",
+        "timestamp": "02:40",
+        "text": "Thanks Sarah. Gong is packaging conversation intelligence with forecast rollups at a 22% lower seat price if we sign their annual EMEA rider."
+      },
+      {
+        "speaker": "Dr. Elena Weber",
+        "role": "Customer Executive",
+        "timestamp": "14:22",
+        "text": "If your VP of Sales can approve matching within 10% of Gong's proposal and give us the London datacenter SLA in writing, I can approve signature under our UK entity before end of month."
+      }
+    ],
+    "actionItems": [
+      {
+        "task": "Escalate Gong price match (-12% compromise) to Sales Director",
+        "assignee": "Sarah Lin",
+        "dueDate": "2026-10-23",
+        "done": false
+      },
+      {
+        "task": "Attach London Datacenter SOC2 Type II and FCA compliance document",
+        "assignee": "David Vance",
+        "dueDate": "2026-10-24",
+        "done": false
+      }
+    ]
+  },
+  {
+    "id": "conv-8819",
+    "meetingUid": "TEAMS-8819-20261016",
+    "title": "CloudScale Banking Legal & Infosec Review",
+    "accountName": "CloudScale Banking Corp",
+    "subsidiary": "",
+    "contactName": "Marcus Vance",
+    "contactTitle": "Chief Information Security Officer",
+    "contactEmail": "m.vance@cloudscalebank.com",
+    "assignedRep": "David Vance",
+    "dealSizeINR": 380000,
+    "dealStage": "Procurement & Legal",
+    "date": "2026-10-16",
+    "time": "11:00 EST",
+    "durationMinutes": 55,
+    "platform": "Microsoft Teams",
+    "riskLevel": "critical",
+    "riskReason": "Bank CISO will veto the ₹380,000 deal unless dedicated KMS encryption keys are provided.",
+    "needsAttention": true,
+    "repTalkPercent": 42,
+    "prospectTalkPercent": 58,
+    "competitors": ["Palo Alto Networks", "SailPoint"],
+    "keyObjections": ["Customer-Managed Encryption Keys (CMEK)", "Data Retention Policy", "Subprocessor Audit Rights"],
+    "summary": "Bank CISO Marcus Vance stated that third-party AI voice storage without dedicated KMS encryption will fail their audit. Requires customer-managed encryption confirmation.",
+    "transcript": [
+      {
+        "speaker": "Marcus Vance",
+        "role": "Chief Information Security Officer",
+        "timestamp": "12:30",
+        "text": "Under FINRA and banking regulations, we cannot store voice recordings with third parties without dedicated KMS keys. Either that is included in the ₹380,000 proposal, or we pause the deal right here."
+      }
+    ],
+    "actionItems": [
+      {
+        "task": "Schedule technical security call regarding dedicated KMS encryption keys",
+        "assignee": "David Vance",
+        "dueDate": "2026-10-23",
+        "done": false
+      }
+    ]
+  },
+  {
+    "id": "conv-8824",
+    "meetingUid": "MEET-8824-20261019",
+    "title": "NovaHealth Patient Services Rollout Demo",
+    "accountName": "NovaHealth Systems",
+    "subsidiary": "",
+    "contactName": "Claire Zhang",
+    "contactTitle": "Director of Patient Experience",
+    "contactEmail": "czhang@novahealth.org",
+    "assignedRep": "Marcus Thorne",
+    "dealSizeINR": 65000,
+    "dealStage": "Solution Validation",
+    "date": "2026-10-19",
+    "time": "15:30 EST",
+    "durationMinutes": 38,
+    "platform": "Google Meet",
+    "riskLevel": "high",
+    "riskReason": "Rep talked 76% of call and failed to address shared shift licensing question.",
+    "needsAttention": true,
+    "repTalkPercent": 76,
+    "prospectTalkPercent": 24,
+    "competitors": ["Zoom Revenue Accelerator", "Apollo.io"],
+    "keyObjections": ["Per-Seat Pricing vs Shared Shift Pool", "Nurse Onboarding Complexity"],
+    "summary": "Claire Zhang wanted call notes for 120 coordinators on rotating shifts. She objected to individual seat licenses. Rep talked for 76% of the meeting presenting standard slides without answering.",
+    "transcript": [
+      {
+        "speaker": "Claire Zhang",
+        "role": "Director of Patient Experience",
+        "timestamp": "11:20",
+        "text": "Our nurses and coordinators work staggered shifts. Can 3 shift workers share one pool license, or do we have to pay ₹8,500 per individual name?"
+      }
+    ],
+    "actionItems": [
+      {
+        "task": "Send custom proposal for pooled shift licenses for 120 hospital coordinators",
+        "assignee": "Marcus Thorne",
+        "dueDate": "2026-10-24",
+        "done": false
+      }
+    ]
+  },
+  {
+    "id": "conv-8830",
+    "meetingUid": "ZOOM-8830-20261020",
+    "title": "DataFlow Systems Engineering Architecture Review",
+    "accountName": "DataFlow Systems Inc",
+    "subsidiary": "",
+    "contactName": "Brian Kelleher",
+    "contactTitle": "VP of Engineering",
+    "contactEmail": "bkelleher@dataflow.io",
+    "assignedRep": "Sarah Lin",
+    "dealSizeINR": 110000,
+    "dealStage": "Procurement & Legal",
+    "date": "2026-10-20",
+    "time": "16:00 EST",
+    "durationMinutes": 32,
+    "platform": "Zoom",
+    "riskLevel": "low",
+    "riskReason": "Standard procurement sync with minor Net 45 payment term request.",
+    "needsAttention": false,
+    "repTalkPercent": 48,
+    "prospectTalkPercent": 52,
+    "competitors": [],
+    "keyObjections": ["Net 45 payment terms"],
+    "summary": "Smooth commercial sync. Brian agreed to standard agreement pending Net 45 payment terms. Expected to sign this week.",
+    "transcript": [
+      {
+        "speaker": "Brian Kelleher",
+        "role": "VP of Engineering",
+        "timestamp": "08:15",
+        "text": "Our engineering tests passed. As long as finance approves Net 45 invoicing, we are ready to sign."
+      }
+    ],
+    "actionItems": [
+      {
+        "task": "Issue Net 45 billing addendum to Brian",
+        "assignee": "Sarah Lin",
+        "dueDate": "2026-10-23",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "conv-8835",
+    "meetingUid": "TEAMS-8835-20261021",
+    "title": "Vertex Logistics Commercial Terms Negotiation",
+    "accountName": "Vertex Logistics Group",
+    "subsidiary": "",
+    "contactName": "Rachel Simmons",
+    "contactTitle": "Senior Corporate Legal Counsel",
+    "contactEmail": "r.simmons@vertexlogistics.com",
+    "assignedRep": "David Vance",
+    "dealSizeINR": 190000,
+    "dealStage": "Proposal / Negotiation",
+    "date": "2026-10-21",
+    "time": "10:00 EST",
+    "durationMinutes": 48,
+    "platform": "Microsoft Teams",
+    "riskLevel": "medium",
+    "riskReason": "Customer legal counsel requested 2x contract value liability cap for data breaches.",
+    "needsAttention": true,
+    "repTalkPercent": 51,
+    "prospectTalkPercent": 49,
+    "competitors": ["Outreach"],
+    "keyObjections": ["2x Contract Value Liability Cap", "Uptime SLA Penalties"],
+    "summary": "Legal review went smoothly on privacy terms, but Vertex insists on a 2x contract liability cap for breaches. Requires legal review.",
+    "transcript": [
+      {
+        "speaker": "Rachel Simmons",
+        "role": "Corporate Legal Counsel",
+        "timestamp": "22:10",
+        "text": "We cannot sign a 1x liability cap on confidentiality. We require a 2x contract cap or ₹380,000 for confidentiality breaches."
+      }
+    ],
+    "actionItems": [
+      {
+        "task": "Get approval from general counsel for 2x liability cap",
+        "assignee": "David Vance",
+        "dueDate": "2026-10-25",
+        "done": false
+      }
+    ]
+  },
+  {
+    "id": "conv-8840",
+    "meetingUid": "MEET-8840-20261021",
+    "title": "Apex BioTech Labs Discovery & Workflow Scoping",
+    "accountName": "Apex BioTech Labs",
+    "subsidiary": "",
+    "contactName": "Julian Vance-Meyer",
+    "contactTitle": "Co-Founder & CTO",
+    "contactEmail": "julian@apexbio.io",
+    "assignedRep": "Marcus Thorne",
+    "dealSizeINR": 85000,
+    "dealStage": "Discovery",
+    "date": "2026-10-21",
+    "time": "13:00 EST",
+    "durationMinutes": 28,
+    "platform": "Google Meet",
+    "riskLevel": "nominal",
+    "riskReason": "Positive discovery call with active interest across 45 researchers.",
+    "needsAttention": false,
+    "repTalkPercent": 38,
+    "prospectTalkPercent": 62,
+    "competitors": [],
+    "keyObjections": [],
+    "summary": "Great discovery call. Julian explained how 45 genomics researchers lose 5 hours a week taking manual notes. Scheduled demo for next Tuesday.",
+    "transcript": [
+      {
+        "speaker": "Julian Vance-Meyer",
+        "role": "CTO & Co-Founder",
+        "timestamp": "14:10",
+        "text": "Our researchers hate updating the CRM manually. If this automatically logs action items from laboratory calls, we want it for our whole 45-person team."
+      }
+    ],
+    "actionItems": [
+      {
+        "task": "Prepare tailored workflow demo for Julian's lab leads",
+        "assignee": "Marcus Thorne",
+        "dueDate": "2026-10-27",
+        "done": false
+      }
+    ]
+  },
+  {
+    "id": "conv-8845",
+    "meetingUid": "ZOOM-8845-20261022",
+    "title": "SwiftPay Micro-Credit Preliminary Evaluation",
+    "accountName": "SwiftPay Micro-Credit",
+    "subsidiary": "",
+    "contactName": "Tamara Woods",
+    "contactTitle": "Head of Operations",
+    "contactEmail": "t.woods@swiftpay.cc",
+    "assignedRep": "Sarah Lin",
+    "dealSizeINR": 30000,
+    "dealStage": "Closed Lost",
+    "date": "2026-10-22",
+    "time": "09:30 EST",
+    "durationMinutes": 18,
+    "platform": "Zoom",
+    "riskLevel": "low",
+    "riskReason": "Disqualified due to lack of SOC2 and regulatory compliance.",
+    "needsAttention": false,
+    "repTalkPercent": 50,
+    "prospectTalkPercent": 50,
+    "competitors": [],
+    "keyObjections": ["Security compliance disqualification"],
+    "summary": "SwiftPay does not meet company security requirements (no active SOC2 or financial charter). Disqualified per company policy.",
+    "transcript": [
+      {
+        "speaker": "Sarah Lin",
+        "role": "Sales Rep",
+        "timestamp": "12:00",
+        "text": "Because SwiftPay does not currently hold a SOC2 certification, our security policies prevent deploying on production financial voice lines."
+      }
+    ],
+    "actionItems": [
+      {
+        "task": "Log disqualification reason in CRM",
+        "assignee": "Sarah Lin",
+        "dueDate": "2026-10-22",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "conv-8850",
+    "meetingUid": "ZOOM-8850-20261022",
+    "title": "Horizon Retail Multi-Store Intelligence Scoping",
+    "accountName": "Horizon Retail Group",
+    "subsidiary": "",
+    "contactName": "Arthur Pendelton",
+    "contactTitle": "VP of Commercial Technology",
+    "contactEmail": "a.pendelton@horizonretail.com",
+    "assignedRep": "David Vance",
+    "dealSizeINR": 310000,
+    "dealStage": "Proposal / Negotiation",
+    "date": "2026-10-22",
+    "time": "11:00 EST",
+    "durationMinutes": 45,
+    "platform": "Zoom",
+    "riskLevel": "medium",
+    "riskReason": "Customer requests 3-year deal with 3% annual renewal cap.",
+    "needsAttention": true,
+    "repTalkPercent": 47,
+    "prospectTalkPercent": 53,
+    "competitors": ["Apollo.io", "Outreach.io"],
+    "keyObjections": ["Annual price escalation cap (3% vs 5%)", "Multi-year commitment discount"],
+    "summary": "Arthur wants a 3-year agreement for 400 retail managers if we cap renewal increases at 3% per year and give a 12% multi-year discount.",
+    "transcript": [
+      {
+        "speaker": "Arthur Pendelton",
+        "role": "VP of Commercial Technology",
+        "timestamp": "18:40",
+        "text": "We are ready to commit to 3 years for 400 licenses, but only if you cap the annual price increase at 3% instead of 5%."
+      }
+    ],
+    "actionItems": [
+      {
+        "task": "Send 3-year contract proposal with 3% renewal cap",
+        "assignee": "David Vance",
+        "dueDate": "2026-10-26",
+        "done": false
+      }
+    ]
+  }
+]

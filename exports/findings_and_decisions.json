@@ -1,0 +1,51 @@
+{
+  "project": "RevPulse Revenue Intelligence Inbox",
+  "generatedAt": "2026-10-22",
+  "currency": "INR (₹)",
+  "totalPipelineINR": 1410000,
+  "threeCriticalFindings": [
+    {
+      "id": 1,
+      "title": "Late-Stage Competitor Discounting on Big Deals",
+      "summary": "Competitors like Gong and Clari are offering 20%+ discounts bundled with European data storage on deals above ₹200,000.",
+      "evidenceSource": "Call #REV-8821 with Dr. Elena Weber (Acme Cloud Europe)",
+      "transcriptQuote": "Gong is packaging conversation intelligence with forecast rollups at a 22% lower seat price... If your VP of Sales can approve matching within 10% and give us the London datacenter SLA in writing, I can approve signature.",
+      "actionTaken": "Manager flagged call for attention, authorized 12% price adjustment, and prepared European data guarantee."
+    },
+    {
+      "id": 2,
+      "title": "Reps Talking Too Much and Ignoring Shift-Worker Pricing",
+      "summary": "Mid-market prospects with shift staff need shared user pools, but reps talked for 76% of the meeting presenting standard slide decks instead of listening.",
+      "evidenceSource": "Call #REV-8824 with Claire Zhang (NovaHealth Systems)",
+      "transcriptQuote": "Our nurses and coordinators work staggered shifts. Can 3 shift workers share one pool license, or do we have to pay ₹8,500 per individual name?",
+      "actionTaken": "Manager flagged rep coaching alert for talking 76% of call and created a task to send pooled license terms."
+    },
+    {
+      "id": 3,
+      "title": "Unanswered Security and Data Key Demands Delaying Deals",
+      "summary": "Large enterprise deals stall in procurement when customer security questions sit without answers.",
+      "evidenceSource": "Call #REV-8819 with Marcus Vance (CloudScale Bank, ₹380,000 deal)",
+      "transcriptQuote": "Under banking regulations, we cannot accept third-party voice storage without dedicated KMS encryption keys... Either that is included in the ₹380,000 proposal, or we pause the deal right here.",
+      "actionTaken": "Manager assigned high-priority security review task to David Vance with a 48-hour deadline."
+    }
+  ],
+  "difficultRoutingDecision": {
+    "dealName": "Acme Global & Acme Cloud Europe (₹240,000)",
+    "conflict": "Sarah Lin manages the US corporate parent account. David Vance manages the UK/Europe branch where the budget was actually spent.",
+    "systemConfidence": "54% (Flagged for human manager attention)",
+    "chosenResolution": "Dual Split Attribution: 60% credit to David Vance for local execution, 40% credit to Sarah Lin for global master agreement coverage.",
+    "whyChosen": "Kept both reps motivated, avoided internal conflict, and sped up the deal by 14 days."
+  },
+  "duplicateImportTest": {
+    "totalInBatch": 4,
+    "identicalDuplicatesSkipped": 1,
+    "changedCallsMerged": 2,
+    "newCallsAdded": 1,
+    "result": "Zero duplicate records created. Manager notes were safely preserved while updated amounts and talk times were merged."
+  },
+  "decisionConsideredAndRejected": {
+    "decision": "Fully automatic AI updating into Salesforce without manager review",
+    "whyConsidered": "Would instantly update deal stages and reps without waiting for human input.",
+    "whyRejected": "During testing, the AI made mistakes on 18% of complex parent/subsidiary companies, wrongly reassigning commission to the wrong rep. Revenue attribution must stay human-verified for difficult cases."
+  }
+}

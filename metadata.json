@@ -1,0 +1,6 @@
+{
+  "name": "RevPulse - Revenue Intelligence Inbox",
+  "description": "Executive revenue intelligence inbox for sales managers to triage calls, analyze conversation risks, automate deal routing, resolve duplicates, and export verified CRM manifests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
